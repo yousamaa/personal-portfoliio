@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Eternal",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Eternal is an amazing platform for gamers in which gamers are able to play live demo of game and if you like the game you can buy and download the full verion of game.",
+    url: "https://github.com/yousamaa/eternal",
   },
   {
     title: "Web Development for Beginners",
